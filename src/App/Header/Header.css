@@ -1,0 +1,36 @@
+.App-header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 25px;
+  color: white;
+  padding: 2% 10%;
+}
+
+.App-link ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.App-link a{
+  color: white;
+  text-decoration: none;
+}
+
+.App-link a:hover{
+  font-weight: 600;
+}
+
+.App-link ul li a{
+  padding: 0 20px;
+}
+
+.github{
+  color: white;
+  text-decoration: none;
+}
+
+.github:hover{
+  font-weight: 600;
+}
